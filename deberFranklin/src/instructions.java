@@ -1,6 +1,8 @@
 import java.util.Random;
 import java.util.Scanner;
 import java.util.Scanner;
+
+//se agrega enum
 enum Estado {SI, NO};
 public class instructions {
     Scanner entrada = new Scanner(System.in);
